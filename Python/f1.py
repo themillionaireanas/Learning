@@ -1,6 +1,6 @@
 a =10
 b =20
 if a>b:
-    print(a)
+    print("test",a)
 else:
-    print(b)
+    print("test",b)
